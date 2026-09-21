@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "type": "stdio",
+      "command": "/home/nitin-sharma/.jetro/runtime/node-linux-x64",
+      "args": [
+        "/home/nitin-sharma/.jetro/mcp-server/index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "/home/nitin-sharma/ralph-workspaces/262ed08a-2c65-469a-92b3-5ffd8f7c2865/ecd428c8-fc8e-4d61-9863-14863098d913",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "/home/nitin-sharma/.jetro/runtime:/home/nitin-sharma/.local/bin:/home/nitin-sharma/.opencode/bin:/home/nitin-sharma/Documents/taxtalk:/home/nitin-sharma/.bun/bin:/home/nitin-sharma/.nvm/versions/node/v22.12.0/bin:/home/nitin-sharma/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/nitin-sharma/.dotnet/tools:/home/nitin-sharma/.dotnet/tools"
+      }
+      
+    }
+  }
+}

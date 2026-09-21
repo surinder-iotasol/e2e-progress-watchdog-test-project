@@ -1,0 +1,19 @@
+{
+  "branchName": "iotahub/phase-1",
+  "userStories": [
+    {
+      "id": "story-e2e-1",
+      "title": "Initial Test Story",
+      "description": "E2E build story description",
+      "acceptanceCriteria": [
+        "Criteria 1"
+      ],
+      "priority": 0,
+      "passes": false,
+      "dependsOn": [],
+      "notes": "",
+      "effort": "low",
+      "model": "sonnet"
+    }
+  ]
+}

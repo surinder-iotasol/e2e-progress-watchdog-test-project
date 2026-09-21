@@ -1,0 +1,17 @@
+{
+  "manifestVersion": 1,
+  "projectType": "fullstack",
+  "frameworks": [],
+  "techStack": [],
+  "services": [
+    {
+      "name": "frontend",
+      "kind": "frontend",
+      "cwd": "",
+      "startCommand": "npm run dev",
+      "portEnv": "PORT",
+      "healthPath": "/"
+    }
+  ],
+  "endpoints": []
+}
